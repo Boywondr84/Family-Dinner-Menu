@@ -1,0 +1,32 @@
+header {
+    padding: 5px 0 5px 0;
+    margin: 0 150px 30px 150px;
+    border-radius: .6cm;
+
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.recipe {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.options {
+    margin-top: 40px;
+    margin-left: 12%;
+    margin-right: 12%;
+    font-size: 40px;
+    border-top: 1.5px solid black;
+    padding-top: 25px;
+}
+
+.options a {
+    text-decoration: none;
+    color: black;
+    margin-left: 35%;
+    margin-right: 15%;
+}

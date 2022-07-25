@@ -10,16 +10,26 @@ h1 {
     font-weight: bold;
 }
 
-.recipe {
+h2 {
+    margin-left: 28px;
+}
+
+li {
+    font-size: 20px;
+    margin-left: 65px;
+    padding-bottom: 15px;
+}
+.menu {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    font-size: 28px;
 }
 
 .options {
     margin-top: 40px;
     margin-left: 12%;
     margin-right: 12%;
-    font-size: 40px;
+    font-size: 30px;
     border-top: 1.5px solid black;
     padding-top: 25px;
 }
